@@ -1,3 +1,3 @@
 print "What is your name?"
-name = "Aniket"//raw_input()
+name = "Aniket"
 print "Hello %s!" % name
